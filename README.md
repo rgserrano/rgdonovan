@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rgdonovan
+- 👋 Hi, I’m @rgdonovan!
 - 🏠 I created Lodge, an open-source self-managed logging observability framework for small to medium-sized microservice web applications.
 - 🖥 I'm passionate about frontend web development, though I'm a proficent fullstack engineer.
 - 👀 I’m interested in using code to enact positive societal change!
