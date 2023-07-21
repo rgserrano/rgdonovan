@@ -1,6 +1,10 @@
-Software Engineer and author of Lodge, an opinionated observability solution for distributed systems: https://lodge-logging.github.io/ 
+Full Stack Developer and co-architect of Lodge (https://lodge-logging.github.io/), an open-source observability solution for distributed web applications. 
 
-I'm a seasoned fullstack dev with half a decade's experience in animation at Pixar. My experiences in film inform my ability to craft appealing and responsive client-facing UX; my work at BombBomb and on Lodge demonstrate my capacity for architecting and maintaining backend systems. In my free time I'm converting my front yard to a family-fueling food garden, and journeying down the long path of self-mastery and self-discipline through martial arts.
+Recent software engineer at BombBomb. Ex-Pixar animator with 6 years in film and animation. 
+
+I love finding efficient solutions to real-world problems, and enjoy imbuing client UX with the appeal of subtle animation and responsiveness I learned from half a decade in animation. 
+
+Outside of work I'm a martial arts junkie, board game aficionado, nature enthusiast, and temporarily grounded hang glider pilot. I grew up in Japan and am culturally and conversationally fluent in Japanese.
 
 <!---
 rgdonovan/rgdonovan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
