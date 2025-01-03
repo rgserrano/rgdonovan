@@ -1,4 +1,4 @@
-Recent software engineer at BombBomb. Ex-Pixar animator with 6 years in film and animation. 
+Engineer at Intuit/Mailchimp.
 
 I love finding efficient solutions to real-world problems, and enjoy imbuing client UX with the appeal and responsiveness I learned from half a decade in animation. 
 
