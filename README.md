@@ -1,5 +1,3 @@
-Full Stack Developer and co-architect of Lodge (https://lodge-logging.github.io/), an open-source, opinionated observability solution for distributed web applications. 
-
 Recent software engineer at BombBomb. Ex-Pixar animator with 6 years in film and animation. 
 
 I love finding efficient solutions to real-world problems, and enjoy imbuing client UX with the appeal and responsiveness I learned from half a decade in animation. 
